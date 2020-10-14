@@ -1,4 +1,3 @@
-  
 import random
 
 while number < guess and number > guess:
