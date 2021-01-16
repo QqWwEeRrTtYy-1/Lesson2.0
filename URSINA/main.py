@@ -6,10 +6,10 @@ app = Ursina()
 
 
 player = PlatformerController2d(
-	position = (0, 0), 
-	collision = True,
+    position = (0, 0), 
+    collision = True,
+    color = color.red
 )
-Animation('image')
 
 
 camera.add_script(SmoothFollow(target=player, offset=[0.5, -30], speed=40))
