@@ -1,0 +1,11 @@
+Turtle
+https://server.179.ru/tasks/python/2017b1/pgm12.5_Turtle.html
+https://server.179.ru/tasks/python/old/turtle.html
+
+Pygame
+https://pythonru.com/uroki/biblioteka-pygame-chast-1-vvedenie
+https://younglinux.info/pygame/draw
+https://pygame.readthedocs.io/en/latest/2_draw/draw.html
+
+Практикум
+https://praktikum.yandex.ru/backend-developer
